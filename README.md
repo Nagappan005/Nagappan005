@@ -45,7 +45,6 @@ A data geek with an insatiable curiosity for uncovering hidden stories in data! 
 ## 📬 How to Reach Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/nagappan555)  
 📧 [Email](mailto:vnagappan00@gmail.com)  
-🌐 [Portfolio](Your Portfolio URL, if any)  
 
 ---
 
