@@ -1,7 +1,6 @@
 ### Hi there! 👋 I'm Nagappan  
 #### 🚀 Data Analyst | SQL & Power BI Enthusiast | Excel | Python | Tableau | JIRA  
 
-🚀 Hey there! I'm Nagappan!  
 A data geek with an insatiable curiosity for uncovering hidden stories in data! 📊 Whether it's SQL, Power BI, Python, Tableau, or Excel, I thrive on transforming raw numbers into compelling insights that fuel smarter decisions, optimize processes, and drive business success.  
 
 🔍 Why Data? Because behind every dataset lies a story waiting to be told! I love digging into numbers, identifying trends, and turning complex information into meaningful, actionable insights that make an impact.  
