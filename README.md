@@ -15,26 +15,24 @@ Welcome to my GitHub! I am a passionate **Data Analyst** with a deep interest in
 ---
 
 ## 🛠️ Technologies & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+
+🔹 **Programming & Scripting:** Python 🐍 | SQL 🛢️  
+🔹 **Data Visualization:** Power BI 📊 | Tableau 📈 | Excel 📑  
+🔹 **Databases:** MySQL 🏛️  
+🔹 **Project Management:** JIRA 📌  
 
 ---
 
-## 📈 GitHub Stats & Activity  
-![Nagappan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+## 📚 Valuable Resources & Certifications  
+🎓 **Google Data Analytics Certificate**  
+📜 **Power BI & Tableau Mastery**  
+📊 **Advanced SQL for Data Analysis**  
 
 ---
 
 ## 📬 How to Reach Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/nagappan555)  
-📧 [Email](mailto:vnagappan00@gmail.com)    
+📧 [Email](mailto:vnagappan00@gmail.com)  
 
 ---
 
