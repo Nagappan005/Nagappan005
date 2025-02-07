@@ -1,8 +1,6 @@
 ### Hi there! 👋 I'm Nagappan  
 #### 🚀 Data Analyst | SQL & Power BI Enthusiast | Excel | Python | Tableau | JIRA  
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Data Analytics GIF">
-
 Welcome to my GitHub! I am a passionate **Data Analyst** with a deep interest in **data-driven decision-making**, business intelligence, and analytics. I love working with data to uncover insights that help businesses grow. My expertise spans across **Excel, SQL, Power BI, Python, Tableau, and JIRA**, and I am always eager to learn and apply new technologies.
 
 ---
@@ -34,25 +32,9 @@ Welcome to my GitHub! I am a passionate **Data Analyst** with a deep interest in
 
 ---
 
-## 🎯 Featured Projects  
-📊 **Sales Data Dashboard (Power BI)**  
-➡ [GitHub Repository](#) | [Live Demo](#)  
-Designed an interactive Power BI dashboard for sales performance tracking and forecasting.
-
-📈 **Customer Churn Analysis (SQL & Tableau)**  
-➡ [GitHub Repository](#) | [Live Demo](#)  
-Analyzed customer retention using SQL queries and visualized key insights in Tableau.
-
-🔍 **Web Scraping & Data Automation (Python)**  
-➡ [GitHub Repository](#) | [Live Demo](#)  
-Built a Python script to extract and analyze real-time financial data.
-
----
-
 ## 📬 How to Reach Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/nagappan555)  
-📧 [Email](mailto:vnagappan00@gmail.com)  
-🌐 [Portfolio](Your Portfolio URL, if any)  
+📧 [Email](mailto:vnagappan00@gmail.com)    
 
 ---
 
